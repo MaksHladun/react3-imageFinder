@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react3-imageFinder/static/css/main.acadc68c.css",
+    "main.js": "/react3-imageFinder/static/js/main.7454fb93.js",
+    "index.html": "/react3-imageFinder/index.html",
+    "main.acadc68c.css.map": "/react3-imageFinder/static/css/main.acadc68c.css.map",
+    "main.7454fb93.js.map": "/react3-imageFinder/static/js/main.7454fb93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acadc68c.css",
+    "static/js/main.7454fb93.js"
+  ]
+}
